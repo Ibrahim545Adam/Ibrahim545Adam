@@ -1,19 +1,22 @@
 # Hi, I'm Ibrahim Adam 👋
 
-### Aspiring Frontend Developer | Building My Skills in Web Development
+### Aspiring Frontend Developer | Building Practical Web Projects
 
-I'm an aspiring web developer from Ghana, passionate about technology and creating useful digital solutions.
+I'm a web developer in training from Ghana 🇬🇭, passionate about technology and creating useful digital solutions.
 
-I'm currently focused on improving my frontend development skills through practical projects and continuous learning.
+I'm focused on developing my frontend skills through practical projects, continuous learning and hands-on experience.
 
 ### 🛠️ Technologies & Skills
 
-- HTML5
-- CSS3
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 - Responsive Web Design
 - CSS Grid
 - Flexbox
-- GitHub
 
 ### 🚀 Featured Projects
 
@@ -21,26 +24,26 @@ I'm currently focused on improving my frontend development skills through practi
 
 A responsive website built for a home healthcare business.
 
-- [Live Website](https://ibrahim545adam.github.io/nurse-connect-updated/)
-- [GitHub Repository](https://github.com/ibrahim545adam/nurse-connect-updated)
+- [🌐 View Live Website](https://ibrahim545adam.github.io/nurse-connect-updated/)
+- [💻 View Source Code](https://github.com/ibrahim545adam/nurse-connect-updated)
 
 **2. EL CAPITANO — Personal Portfolio**
 
-My personal developer portfolio showcasing my skills, projects and development journey.
+My personal portfolio showcasing my skills, projects and development journey.
 
-- [Live Portfolio](https://ibrahim545adam.github.io/el-capitano-portfolio/)
-- [GitHub Repository](https://github.com/ibrahim545adam/el-capitano-portfolio)
+- [🌐 View Live Portfolio](https://ibrahim545adam.github.io/el-capitano-portfolio/)
+- [💻 View Source Code](https://github.com/ibrahim545adam/el-capitano-portfolio)
 
 ### 📚 Currently Learning
 
-- Improving my frontend development skills.
+- Improving frontend development skills.
 - Exploring JavaScript.
 - Building practical web projects.
 - Developing a foundation for future cybersecurity studies.
 
 ### 📫 Connect With Me
 
-- **Email:** adamibrahim545@gmail.com
+- **Email:** [adamibrahim545@gmail.com](mailto:adamibrahim545@gmail.com)
 - **WhatsApp:** [Let's connect](https://wa.me/233597110953)
 - **GitHub:** [@Ibrahim545Adam](https://github.com/Ibrahim545Adam)
 
