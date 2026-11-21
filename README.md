@@ -24,6 +24,8 @@ I'm focused on developing my frontend skills through practical projects, continu
 
 A responsive website built for a home healthcare business.
 
+![Nurse Connect Homepage](https://github.com/Ibrahim545Adam/nurse-connect-updated/blob/main/homepage.png?raw=true)
+
 - [🌐 View Live Website](https://ibrahim545adam.github.io/nurse-connect-updated/)
 - [💻 View Source Code](https://github.com/ibrahim545adam/nurse-connect-updated)
 
