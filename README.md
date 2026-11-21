@@ -33,6 +33,8 @@ A responsive website built for a home healthcare business.
 
 My personal portfolio showcasing my skills, projects and development journey.
 
+![el-capitano portfolio's Homepage](https://github.com/Ibrahim545Adam/el-capitano-portfolio/blob/main/images/homepage.png?raw=true)
+
 - [🌐 View Live Portfolio](https://ibrahim545adam.github.io/el-capitano-portfolio/)
 - [💻 View Source Code](https://github.com/ibrahim545adam/el-capitano-portfolio)
 
